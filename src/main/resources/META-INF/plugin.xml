@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.github.wolverian.jetbrainstemplatetest</id>
-    <name>jetbrains-template-test</name>
+    <name>Jetbrains-Template-Test</name>
     <vendor>wolverian</vendor>
 
     <!-- Product and plugin compatibility requirements -->
